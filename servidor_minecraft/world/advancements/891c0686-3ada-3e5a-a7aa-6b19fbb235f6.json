@@ -3921,6 +3921,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-11-17 01:33:58 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_player_hurt": {
     "criteria": {
       "requirement": "2024-11-17 02:05:36 +0000",
@@ -3993,12 +3999,6 @@
       "log_spam_fixer": "2024-11-17 02:05:32 +0000"
     },
     "done": false
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2024-11-17 01:33:58 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }

@@ -1311,3 +1311,38 @@ java.lang.OutOfMemoryError: Java heap space
 [28Nov2024 02:25:16.124] [Server thread/INFO] [net.stardustlabs.structorytowers.StructoryTowers/]: Thanks for choosing StructoryTowers!
 [28Nov2024 02:25:16.178] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [28Nov2024 02:25:22.446] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@732c5e44[id=<null>,name=orion_cuy,properties={},legacy=false] (/127.181.153.192:44139) lost connection: Disconnected
+[28Nov2024 02:30:53.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Nov2024 02:30:53.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[28Nov2024 02:30:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Nov2024 02:30:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[28Nov2024 02:30:55.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Nov2024 02:30:55.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[28Nov2024 02:30:56.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Nov2024 02:30:56.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[28Nov2024 02:34:28.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: orion_cuy[/127.181.153.192:38799] logged in with entity id 97 at (1063.8078650174027, 69.00133597911214, -3127.6845648172525)
+[28Nov2024 02:34:28.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy joined the game
+[28Nov2024 02:34:28.843] [Server thread/INFO] [Jade/]: Syncing config to orion_cuy (891c0686-3ada-3e5a-a7aa-6b19fbb235f6)
+[28Nov2024 02:34:34.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy lost connection: Disconnected
+[28Nov2024 02:34:34.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy left the game
+[28Nov2024 02:34:34.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6652ms or 133 ticks behind
+[28Nov2024 02:34:35.062] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 02:34:57.383] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3903fc78[id=<null>,name=orion_cuy,properties={},legacy=false] (/127.181.153.192:34329) lost connection: Disconnected
+[28Nov2024 02:35:04.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: orion_cuy[/127.181.153.192:49457] logged in with entity id 103 at (1063.8078650174027, 69.00133597911214, -3127.6845648172525)
+[28Nov2024 02:35:04.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy joined the game
+[28Nov2024 02:35:04.915] [Server thread/INFO] [Jade/]: Syncing config to orion_cuy (891c0686-3ada-3e5a-a7aa-6b19fbb235f6)
+[28Nov2024 02:35:06.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy lost connection: Disconnected
+[28Nov2024 02:35:06.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy left the game
+[28Nov2024 02:35:06.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[28Nov2024 02:35:06.943] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 02:38:08.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: orion_cuy[/127.181.153.192:46169] logged in with entity id 109 at (1063.8078650174027, 69.00133597911214, -3127.6845648172525)
+[28Nov2024 02:38:08.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy joined the game
+[28Nov2024 02:38:08.564] [Server thread/INFO] [Jade/]: Syncing config to orion_cuy (891c0686-3ada-3e5a-a7aa-6b19fbb235f6)
+[28Nov2024 02:38:10.505] [Netty Epoll Server IO #0/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: fallingtrees:config_packet
+[28Nov2024 02:38:10.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[28Nov2024 02:38:10.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy lost connection: Below animations are missing or don't exist in the server
+
+wom:biped/combat/herrscher_verdammnis
+wom:biped/skill/gezets_widerstand
+
+Please check the resource packs that you're missing or unload the packs that the server doesn't have
+[28Nov2024 02:38:10.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy left the game
