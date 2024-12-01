@@ -7079,3 +7079,66 @@ java.lang.OutOfMemoryError: Java heap space
 [01Dec2024 04:08:53.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darcksade15 lost connection: Timed out
 [01Dec2024 04:08:53.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darcksade15 left the game
 [01Dec2024 04:08:54.315] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/1927, l='ServerLevel[world]', x=1379.79, y=30.00, z=-3420.80, removed=UNLOADED_TO_CHUNK]
+[01Dec2024 04:11:48.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 04:11:48.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 04:16:48.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 04:16:48.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 04:18:03.572] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.572] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'azurelib:main' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'azurelib:network_channel' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'terramity:terramity' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'realmrpg_skeletons:realmrpg_skeletons' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epicfight:network_manager' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'insanelib:simple_channel' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftable_enchanted_golden_apple:craftable_enchanted_golden_apple' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'celestisynth:messages' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'soulsweapons:messages' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endermanoverhaul:main' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'obscure_api:obscure_api' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.574] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explorerscompass:explorerscompass' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dragonmounts:network' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aquamirae:main' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rpgsmw:rpgsmw' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mythicmounts:messages' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gamma_beasts:gamma_beasts' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Vanilla acceptance test: REJECTED
+[01Dec2024 04:18:03.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Vanilla acceptance test: ACCEPTED
+[01Dec2024 04:18:03.576] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [guardvillagers:main,sophisticatedbackpacks:channel,azurelib:main,azurelib:network_channel,terramity:terramity,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,realmrpg_skeletons:realmrpg_skeletons,paraglider:master,creativecore:main,epicfight:network_manager,caelus:main,craftable_enchanted_golden_apple:craftable_enchanted_golden_apple,geckolib:main,endermanoverhaul:main,ic_air:main,citadel:main_channel,obscure_api:obscure_api,curios:main,dragonmounts:network,aquamirae:main,sophisticatedcore:channel,patchouli:main,gamma_beasts:gamma_beasts,twilightforest:channel,waystones:network] rejected vanilla connections
+[01Dec2024 04:18:03.578] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.209.41.190:43749] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
