@@ -1209,3 +1209,19 @@ java.lang.OutOfMemoryError: Java heap space
 [01Dec2024 03:44:34.355] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: fallingtrees:config_packet
 [01Dec2024 03:45:02.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darcksade15 lost connection: Disconnected
 [01Dec2024 03:45:02.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darcksade15 left the game
+[01Dec2024 03:58:37.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 03:58:37.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[01Dec2024 03:58:38.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 03:58:38.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[01Dec2024 03:58:38.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 03:58:38.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[01Dec2024 03:58:38.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 03:58:38.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[01Dec2024 03:58:39.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 03:58:39.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[01Dec2024 03:58:41.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 03:58:41.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD<--[HERE]
+[01Dec2024 04:00:58.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darcksade15[/127.225.147.38:60205] logged in with entity id 1231 at (1379.699999988079, 35.0, -3420.670236154086)
+[01Dec2024 04:00:58.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darcksade15 joined the game
+[01Dec2024 04:00:58.579] [Server thread/INFO] [Jade/]: Syncing config to darcksade15 (d867e56f-ee01-31ac-898d-6b8e130190fd)
+[01Dec2024 04:00:59.388] [Netty Epoll Server IO #1/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: fallingtrees:config_packet
