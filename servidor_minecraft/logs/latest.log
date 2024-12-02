@@ -968,3 +968,6 @@ java.lang.OutOfMemoryError: Java heap space
 [02Dec2024 01:14:39.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
 [02Dec2024 01:27:09.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <orion_cuy> COVID
 [02Dec2024 01:27:15.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <orion_cuy> habla pe chica
+[02Dec2024 01:35:51.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[02Dec2024 01:36:05.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[02Dec2024 01:42:11.689] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10267, l='ServerLevel[world]', x=117.74, y=-20.00, z=-388.74] died: Toxic Slime was killed
